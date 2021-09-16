@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>KELOMPOK 2</title>
+    <style>
+        body, h1, h2, p, a,td, span {
+            font-family: Poppins; 
+            text-decoration: none;
+        }
+        .wrap {
+            background-color:rgb(247, 202, 201);
+            width:1000px;
+            color:rgb(red, green, blue);
+            margin: 20px auto;
+            padding:15px;
+        }
+        .icon {
+            padding:5px;
+            text-align: center;
+        }
+        span {
+            color: crimson;
+            
+        }
+    </style>
+</head>
+<body  style="background-color:cream;background-size: cover;background-attachment: fixed;">
+    <div>
+        <div class="wrap" align="center">
+        <h1 align="center">KELOMPOK <span> 2 </span></h1>
+        <h2 align="center" style="margin-top: -20px;">Pemprograman Berbasis Website </h2>
+        <h2 align="center" style="margin-top: -20px;">Pertemuan<span> Kedua</span> </h2>
+        </div>
+        <table 1 class="wrap" align="center">
+            <tr>
+                <td rowspan="8" width="100px"> <img src="images/agisna.jpg" width="200px" style="display: block;border-radius: 5%;border-color:white;margin-right:30px" border="2px" ></td>
+            </tr>
+            <tr>
+                <td><b>NAMA</b></td>
+                <td>:</td> <td>PUTU AGISNA FRANSISCO SARA</td>
+            </tr>
+            <tr>
+                <td><b>NIM</b></td><td>:</td><td>2015091005</td>
+            </tr>
+            <tr>
+                <td><b>STATUS</b></td><td>:</td> <td>BROKEN HEART</td>
+            </tr>
+            <tr>
+                <td><b>ALAMAT</b></td><td>:</td> <td>JALAN GEMPOL, BANYUNING BARAT</td>
+            </tr>
+            <tr>
+                <td><b>EMAIL</b></td><td>:</td><td><a href="mailto:agisna@undiksha.ac.id">agisna@undiksha.ac.id</a></td>
+            </tr>
+        </table 1>
+      
+        <table 2 class="wrap" align="center">
+            <tr>
+                <td rowspan="8" width="100px"> <img src="images/Reddya.jpg" width="200px" style="display: block;border-radius: 5%;border-color:white;margin-right:30px" border="2px" ></td>
+            </tr>
+            <tr>
+                <td><b>NAMA</b></td>
+                <td>:</td> <td>IDA WAYAN REDDYA BASWARA</td>
+            </tr>
+            <tr>
+                <td><b>NIM</b></td><td>:</td> <td>2015091029</td>
+            </tr>
+            <tr>
+                <td><b>STATUS</b></td><td>:</td> <td>MENGSEDIH</td>
+            </tr>
+            <tr>
+                <td><b>ALAMAT</b></td><td>:</td> <td>JALAN RA KARTINI GG KOMODO 2 MONJOK GERIA</td>
+            </tr>
+            <tr>
+                <td><b>EMAIL</b></td><td>:</td><td><a href="mailto:reddya@undiksha.ac.id">reddya@undiksha.ac.id</a></td>
+            </tr>
+        </table 2>
+      
+        <table 3 class="wrap" align="center">
+            <tr>
+                <td rowspan="8" width="100px"> <img src="images/rama.jpg" width="200px" style="display: block;border-radius: 5%;border-color:white;margin-right:30px" border="2px" ></td>
+            </tr>
+            <tr>
+                <td><b>NAMA</b></td>
+                <td>:</td> <td>I KETUT RAMA PRADIPTA</td>
+            </tr>
+            <tr>
+                <td><b>NIM</b></td><td>:</td> <td>2015091050</td>
+            </tr>
+            <tr>
+                <td><b>STATUS</b></td><td>:</td> <td>SIAP MATI</td>
+            </tr>
+            <tr>
+                <td><b>ALAMAT</b></td><td>:</td> <td>PERUMAHAN ASRI AGUNG PERSADA BLOK B5</td>
+            </tr>
+            <tr>
+                <td><b>EMAIL</b></td><td>:</td><td><a href="mailto:rama.pradipta@undiksha.ac.id">rama.pradipta@undiksha.ac.id</a></td>
+            </tr>
+        </table 3>
+
+        <table 4 class="wrap" align="center">
+            <tr>
+                <td rowspan="8" width="100px"> <img src="images/baruna.jpg" width="200px" style="display: block;border-radius: 5%;border-color:white;margin-right:30px" border="2px" ></td>
+            </tr>
+            <tr>
+                <td><b>NAMA</b></td>
+                <td>:</td> <td>I MADE NGURAH BARUNA MAHESWARA</td>
+            </tr>
+            <tr>
+                <td><b>NIM</b></td><td>:</td> <td>2015091071</td>
+            </tr>
+            <tr>
+                <td><b>STATUS</b></td><td>:</td> <td>NYARI YANG KETIGA</td>
+            </tr>
+            <tr>
+                <td><b>ALAMAT</b></td><td>:</td> <td>JALAN WR SUPRATMAN N 311X</td>
+            </tr>
+            <tr>
+                <td><b>EMAIL</b></td><td>:</td><td><a href="mailto:baruna.maheswara@undiksha.ac.id">baruna.maheswara@undiksha.ac.id</a></td>
+            </tr>
+        </table 4>
+    </div>
+    
+</body>
+</html>
+
